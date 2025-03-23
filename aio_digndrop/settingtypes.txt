@@ -1,0 +1,7 @@
+[Settings]
+aio_digndrop_pickup_radius (Pickup Radius) int 1
+aio_digndrop_atrraction_speed (Attraction speed) float 10.0
+
+[Enable/Disable Features]
+aio_digndrop_enable_drop (Enable Drop) bool true
+aio_digndrop_enable_enable_pickup (Enable Pickup) bool true
